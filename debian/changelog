@@ -1,8 +1,0 @@
-ros-kinetic-dnn-detect (0.0.2-0xenial) xenial; urgency=high
-
-  * Initial commit
-  * Contributors: Jim Vaughan
-
- -- Jim Vaughan <jimv@mrjim.com>  Sun, 03 Dec 2017 08:00:00 -0000
-
-
